@@ -1,0 +1,53 @@
+{C:/Users/Akhilesh/Desktop/COA Project/ADDI/adder.v} {1 {vlog -work work -stats=none {C:/Users/Akhilesh/Desktop/COA Project/ADDI/adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module onebitadder
+-- Compiling module thirtytwobitadder
+
+Top level modules:
+	thirtytwobitadder
+
+} {} {}} {C:/Users/Akhilesh/Desktop/COA Project/ADDI/gates.v} {1 {vlog -work work -stats=none {C:/Users/Akhilesh/Desktop/COA Project/ADDI/gates.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AND
+-- Compiling module OR
+
+Top level modules:
+	AND
+	OR
+
+} {} {}} {C:/Users/Akhilesh/Desktop/COA Project/ADDI/registerfile.v} {1 {vlog -work work -stats=none {C:/Users/Akhilesh/Desktop/COA Project/ADDI/registerfile.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/Akhilesh/Desktop/COA Project/ADDI/tb.v} {1 {vlog -work work -stats=none {C:/Users/Akhilesh/Desktop/COA Project/ADDI/tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/Akhilesh/Desktop/COA Project/ADDI/alu.v} {1 {vlog -work work -stats=none {C:/Users/Akhilesh/Desktop/COA Project/ADDI/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Akhilesh/Desktop/COA Project/ADDI/signextendshift.v} {1 {vlog -work work -stats=none {C:/Users/Akhilesh/Desktop/COA Project/ADDI/signextendshift.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} {C:/Users/Akhilesh/Desktop/COA Project/ADDI/splitter.v} {1 {vlog -work work -stats=none {C:/Users/Akhilesh/Desktop/COA Project/ADDI/splitter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Splitter
+
+Top level modules:
+	Splitter
+
+} {} {}}
